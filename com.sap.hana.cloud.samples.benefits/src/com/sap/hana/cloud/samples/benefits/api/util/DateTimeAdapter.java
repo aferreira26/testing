@@ -20,6 +20,7 @@ import com.google.gson.JsonSerializer;
  * java.util.Date serializer/deserializer in UTC format.
  * 
  * @author Chavdar Baikov
+ MY NAME IS ANDRE!!!!
  */
 public class DateTimeAdapter implements JsonSerializer<Date>, JsonDeserializer<Date> {
 
